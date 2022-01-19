@@ -1,5 +1,4 @@
 
-[GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
 ### Hi there!Welcome to my profile👋
 
 My name is Veronica,I fell in love with the code eight months ago,when my journey started!
